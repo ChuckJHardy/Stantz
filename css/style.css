@@ -1,0 +1,29 @@
+.navbar {
+  margin-top: 23px;
+  position: relative;
+}
+
+.navbar .logo {
+  position: absolute;
+  top: -7px;
+  left: 13px;
+}
+
+.jumbotron {  
+  margin: 80px 0;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 4.5em;
+  line-height: 1;
+}
+
+.jumbotron .progress {
+  margin-top: 23px;
+}
+
+.jumbotron .social {
+  display: block;
+  margin-top: 25px;
+}
